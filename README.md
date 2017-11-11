@@ -18,4 +18,4 @@ Yardım Menüsü
 
 ![Yardım Menüsü](http://www.karacasercan.com/gallery_gen/1465cbf7cf3c5c7facdcbdaa09a56239_gallery.png)
 
-Uygulamayı edinmek için wwww.karacasercan.com adresini ziyaret edebilirsiniz.
+Uygulamayı edinmek için www.karacasercan.com adresini ziyaret edebilirsiniz.
