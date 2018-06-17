@@ -4,18 +4,16 @@ Bu depoda stajda geliştirmiş olduğum metin editörünün kodlamaları bulunma
 
 Dosya Menüsü
 
-![Dosya Menüsü](http://www.karacasercan.com/wp-content/uploads/2017/12/Screenshot_2.png)
+![Dosya Menüsü](http://i.hizliresim.com/LD46Ro.png)
 
 Düzen Menüsü
 
-![Düzen Menüsü](http://www.karacasercan.com/wp-content/uploads/2017/12/Screenshot_3.png)
+![Düzen Menüsü](http://i.hizliresim.com/r1VDNm.png)
 
 Görünüm Menüsü
 
-![Görünüm Menüsü](http://www.karacasercan.com/wp-content/uploads/2017/12/Screenshot_4.png)
+![Görünüm Menüsü](http://i.hizliresim.com/7DbL1Y.png)
 
 Yardım Menüsü
 
-![Yardım Menüsü](http://www.karacasercan.com/wp-content/uploads/2017/12/Screenshot_5.png)
-
-Uygulamayı edinmek için www.karacasercan.com adresini ziyaret edebilirsiniz.
+![Yardım Menüsü](http://i.hizliresim.com/PDoVa5.png)
